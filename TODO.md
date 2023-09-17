@@ -1,1 +1,0 @@
-- Looks like the EPUB fileformat uses CSS to style the components, so rendering it in the browser seems a good option 
